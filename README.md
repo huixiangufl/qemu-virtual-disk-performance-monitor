@@ -1,5 +1,5 @@
 # qemu-virtual-disk-performance-monitor
- performance monitor to get the performance metrics of each virtual disk:
+ performance monitor to get the performance metrics of each virtual disk, patch for QEMU 1.4.0
  
  including: 
  
